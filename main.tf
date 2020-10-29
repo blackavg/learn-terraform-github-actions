@@ -9,7 +9,7 @@ terraform {
   }
 
   backend "remote" {
-    organization = "KauriPine-Tek"
+    organization = "KauriPine-Tek**"
 
     workspaces {
       name = "gh-actions-demo"
